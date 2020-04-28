@@ -1,0 +1,152 @@
+/*
+ * TODOs
+ *
+ * class: IconCommand (OpenGUI)
+ * class: ColorCommand (OpenGUI)
+ * class: ChatCommand (OpenGUI)
+ */
+- class: ClientManager, line:30
+
+/*
+ * Main features
+ */
+[DONE] - Ranking system
+[DONE] - Chat formatting system
+[DONE] - Economy system
+[DONE]   * Coins: to buy in-game items/upgrades
+[DONE]   * Cubits: to buy in-game cosmetics
+[DONE]  - Auto Messages system
+
+/*
+ * Management features
+ */
+[DONE] - Punishment Database
+[DONE] - Player Database
+[DONE] - Player punishment system
+[DONE] - Rank management system
+[DONE] - Chat management system
+ - Server Management System (whitelist, can fly, can double jump, chat)
+ - Cosmetics Database
+ 
+ /*
+ * Cosmetic features
+ */
+ - Infinitum Particle Trails Pack [Infinitum Only]
+   * Red dust
+   * Flame
+   * Firework Spark
+   * Water
+   * Lava
+ - Kill Effects (Effect you get when you kill a player) 
+   * Blood Helix (Red dust normal helix) M: 300 V: 255 P: 225 
+   * Flame Helix (Flame normal helix) M: 300 V: 255 P: 225
+   * Frozen Helix (Snow_Shovel normal helix) M: 300 V: 255 P: 225
+   * Flame Rage (Flame particles like rings) M: 500 V: 425 P: 375
+   * Angelic Waves (Any white particles in a wave, steeezyyy video) M: 500 V: 425 P: 375
+- Death Cry (Effect you make when you die)
+   * MINERALS  (Diamond + Gold particles + minerals on the floor) M: 200 V: 170 P: 150
+   * Cookies (Cookie eating particles + cookies on the floor) M: 200 V: 170 P: 150
+   * Veggie (villager particles + vegetables + fruits on the floor) M 200 
+   * Flame (lava explosion particles with smoke + blaze stuff on the floor)
+   * Explode (Explode effect + bones and meat) M: 200 V: 170 P: 150
+- Sword Hero
+   * Blood Hero (Red dust wings)           ]
+   * Angelic Hero (White dust wings)       ]
+   * Fiery Hero (Flame wings)              ] ----- M: 700 V: 595 P: 525
+   * Emerald Hero (Villager Happy wings)   ]
+   * Frozen Hero (Snow Shovel wings)       ]
+   
+ 
+/*
+ * Other features
+ */
+[DONE] - Action bar API
+[DONE] - Titles API
+[DONE] - Particles API
+ - Scoreboard
+ 
+ /*
+ * Rank features
+ */
+ 
+ // Member:
+[DONE]  - Help Command (/help)
+[DONE]  - Full price for cosmetics
+  
+// VIP
+[DONE]  - VIP Tag (Color: AQUA)
+[DONE]  - Login particle effect (Firework Spark)
+[DONE]  - Reserved Slot (Login when server is full)
+[DONE] - Firework Command (/firework or /fw: Spawn a randomly generated firework at players location, cooldown 15s)
+[DONE]  - Double jump in lobbies
+[DONE]  - Shout Command (/shout <message>: Will broadcast a meesage server wide (Format: "[Shout] [player]: [message]"), cooldown 55s)
+  - 15% discount on cosmetics
+  - x2 Cubits earned
+  - Exclusive Gadget (to be determined) [Current idea: 'broom', right click send you flying up, 6 uses // Smash Brothers type]
+  
+// PRO
+[DONE]  - PRO Tag (Color: BLUE)
+[DONE]  - Login announcement
+[DONE]  - Login particle effect (Firework spark + Flame + Lightning)
+[DONE]  - Fly in lobbies
+  - 25% discount on cosmetics
+  - x3 Cubits earned
+  - Exclusive Gadget (to be determined) [Current idea: none]
+
+// Infinitum Club
+[DONE]  - [X] Icon before Tag (x = icon)
+[DONE]  - Color Command (/color: Opens GUI to select a color for name)
+[DONE]  - Icon Command (/icon: Opens gui to select icon)
+[DONE]  - Access to Infinitum Particle Trails (Small helix type, above head when walking)
+  
+// Admin
+[DONE]  - ADMIN Tag (Color: RED)
+[DONE]  - Login announcement
+[DONE]   * /broadcast(/bc) <message> (Format: "[name]: [message]")
+[DONE]   * /announce(/a) <message> (Format: [new_line] [prefix](Announcement) [new_line] [message] [new_line])
+[DONE]   * /punish
+[DONE]   ~ Sender is Player: /punish <player> <reason> (Opens GUI)
+[DONE]   ~ Sender is Console: /punish <type> <player> <reason>
+[DONE]   * /chat
+[DONE]   ~ Sender is Player: /chat (Opens GUI)
+[DONE]  - Commands
+[DONE]   * /rank
+[DONE]     ~ Sender is Console: /rank <name> <rank>
+[DONE]     ~ Sender is Player: /rank <player> (Opens GUI)
+
+// OP/Owner
+[DONE]   - OP/OWNER Tag (Color: RED)
+[DONE]   - Upload Command
+[DONE]   - Opped.
+    
+ /****************************************************************
+ *****************************************************************
+ *****************************************************************/
+ /*
+ * Ascii Codes
+ */
+ 
+ Website: www.alt-codes.net/
+ 
+ Codes:
+  - Black Four Pointed Star	&#10022;
+  - Circled Open Centre Eight Pointed Star	&#10050;
+  - Big Heart	&#10084;
+  - Musical single bar note	&#9835;
+  - Snowflake	&#10052;
+  - Recycling Symbol For Generic Materials	&#x267A;
+  - Infinity Alt Code	236 (battery looking)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

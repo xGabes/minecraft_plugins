@@ -1,0 +1,5 @@
+main: net.Equinox.typhoon.Typhoon
+name: EquinoxTyphoon
+version: 1
+description: The plugin for the game Typhoon on the Equinox Network.
+author: Leblanct

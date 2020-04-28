@@ -1,0 +1,42 @@
+main: net.Equinox.core.Core
+name: EquinoxCore
+version: 1
+description: The core plugin for the Equinox Network.
+author: Leblanct
+
+commands:
+  help:
+    aliases: [h, ?, plugins, pl]
+    description: Help command
+  shout:
+    aliases: [s]
+    description: Shout command
+  broadcast:
+    aliases: [bc]
+    description: Broadcast command
+  announce:
+    aliases: [ann]
+    description: Announce command
+  fly:
+    aliases: [flight]
+    description: Flight command
+  firework:
+    aliases: [fw]
+    description: Flight command
+  upload:
+    description: Upload command
+  color:
+    description: Color command
+  icon:
+    description: Icon command
+  punish:
+    aliases: [ban, kick, mute, warn, unban, pardon, unmute, unwarn]
+    description: Punish command
+  chat:
+    aliases: [silence, clear]
+    description: Chat command
+  rank:
+    aliases: [setrank, ranking, promote, demote]
+    description: Rank command
+  manage:
+    description: Manage command

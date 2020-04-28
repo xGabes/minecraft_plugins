@@ -1,0 +1,9 @@
+main: me.Leblanct.supercreative.SuperCreative
+name: Creative
+version: 1
+author: Leblanct
+
+commands:
+  world:
+    aliases: [w]
+    description: World command
